@@ -1,6 +1,6 @@
 # Crossref DOI Resolver Checker
 
-This Streamlit app allows you to fetch all DOIs registered under a given **Crossref prefix** and check whether each DOI resolves correctly. It’s a handy tool for DOI and metadata maintenance.
+[This](https://doi-resolver-checker-for-crossref.streamlit.app/) Streamlit app allows you to fetch all DOIs registered under a given **Crossref prefix** and check whether each DOI resolves correctly. It’s a handy tool for DOI and metadata maintenance.
 
 ## 🔧 Features
 

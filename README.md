@@ -38,7 +38,7 @@ This Streamlit app allows you to fetch all DOIs registered under a given **Cross
 
 ## 🙋 Author
 
-**Søren Vidmar**  
+[**Søren Vidmar**] (https://svidmardev.vercel.app/)  
 [ORCID](https://orcid.org/0000-0003-3055-6053)  
 Aalborg University  
 [GitHub Profile](https://github.com/svidmar)  

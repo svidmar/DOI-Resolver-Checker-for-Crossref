@@ -23,7 +23,7 @@ This app connects to the Crossref API to fetch all DOIs for a given Crossref pre
 ---
 
 **Created by:**  
-Søren Vidmar  
+[Søren Vidmar](https://svidmardev.vercel.app/)  
 🔗 [ORCID](https://orcid.org/0000-0003-3055-6053)  
 🏫 Aalborg University  
 📧 [sv@aub.aau.dk](mailto:sv@aub.aau.dk)  
